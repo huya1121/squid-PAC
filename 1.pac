@@ -1,4 +1,5 @@
-var proxy = "PROXY 你的ip地址:25;";
+//var proxy = "PROXY 你的ip地址:25;";
+var proxy = "127.0.0.1:1080;";
 
 var domains = {
   "*.google": 1,
